@@ -1,2 +1,2 @@
 # MyWebsite
-I am creating my own website and laearning how to code
+I am creating my own website and learning how to code
